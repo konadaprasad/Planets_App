@@ -1,0 +1,28 @@
+.list-cont {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  margin: 20px;
+  text-align: center;
+}
+.image {
+  height: 300px;
+  width: 400px;
+}
+.heading1 {
+  font-size: 30px;
+  color: #ffffff;
+  text-align: center;
+}
+.para {
+  font-size: 20px;
+  color: #ffffff;
+}
+.un-order {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
