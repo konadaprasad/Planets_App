@@ -3,3 +3,9 @@
   background-size: cover;
   padding: 40px;
 }
+.heading {
+  font-size: 30px;
+  font-weight: bold;
+  color: #05acff;
+  text-align: center;
+}
